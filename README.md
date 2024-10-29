@@ -7,8 +7,6 @@
 - :seedling: I try to learn something new each day and want to push the limits in the data space.
 - :zap: In my free time, I enjoy hiking, playing pickleball, watching sports, and spending time with family.
 
-
-
 ##
 
 ### 🛠️ Tech Stack:
