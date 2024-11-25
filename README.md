@@ -1,4 +1,4 @@
-## 😎 Hey, nice to see you!
+## 😎 Welcome!
 
 ### :man_technologist: Here's a little bit about me:
 
