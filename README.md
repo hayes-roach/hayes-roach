@@ -5,17 +5,24 @@
 - :telescope: I’m a Software / Data Engineer with 5 years of experience in building, designing, and deploying microservices and data pipelines.
 - 📚 I am pursuing my Master's degree in Computer Science @ Georgia Tech specializing in Computing Systems. 🐝
 - :seedling: I try to learn something new each day and want to push the limits in the data space.
-- :zap: In my free time, I enjoy hiking, playing pickleball, watching sports, and spending time with family.
+- ⛓ Web3 & Blockchain Enthusiast with a focus on Solana's high-performance ecosystem, DeFi, and decentralized applications (dApps).
+- :zap: In my free time, I enjoy hiking, playing pickleball, watching sports, and spending quality time with family.
 
 ##
 
 ### 🛠️ Tech Stack:
 
 - 🛢️ Databases: PostgreSQL, MySQL, MongoDB, CouchDB, Snowflake
-- 🌐 Programming Languages: SQL, Java, Python, JavaScript, C++, Rust, HTML/CSS
+- 🌐 Programming Languages: SQL (5y), Java (5y), JavaScript (3y), Python (2y), C++ (1y), Rust (1y)
 - ⚙️ Frameworks & Libraries: React, Spring Boot, pandas
 - 🔧 DevOps & Version Control: Git, GitHub (Actions), GitLab, Bitbucket, Docker, Kubernetes, AWS
 - 📊 Data Processing & Visualization: Kafka, Redis, Airflow, dbt, Sigma, Jasper, Talend, Mage, Debezium
+
+- 🛢️ Databases: PostgreSQL, MySQL, MongoDB, CouchDB, Snowflake
+- 🌐 Programming Languages: SQL, Java, Python, JavaScript, C++, Rust
+- ⚙️ Frameworks & Libraries: Spring Boot, NextJS, pandas
+- 🔧 DevOps & Version Control: Git, CI/CD, Docker, Kubernetes, AWS
+- 📊 Data Processing & Visualization: Kafka, Redis, Airflow, Sigma, Talend, Mage, Debezium
 
 ##
 
