@@ -13,12 +13,6 @@
 ### 🛠️ Tech Stack:
 
 - 🛢️ Databases: PostgreSQL, MySQL, MongoDB, CouchDB, Snowflake
-- 🌐 Programming Languages: SQL (5y), Java (5y), JavaScript (3y), Python (2y), C++ (1y), Rust (1y)
-- ⚙️ Frameworks & Libraries: React, Spring Boot, pandas
-- 🔧 DevOps & Version Control: Git, GitHub (Actions), GitLab, Bitbucket, Docker, Kubernetes, AWS
-- 📊 Data Processing & Visualization: Kafka, Redis, Airflow, dbt, Sigma, Jasper, Talend, Mage, Debezium
-
-- 🛢️ Databases: PostgreSQL, MySQL, MongoDB, CouchDB, Snowflake
 - 🌐 Programming Languages: SQL, Java, Python, JavaScript, C++, Rust
 - ⚙️ Frameworks & Libraries: Spring Boot, NextJS, pandas
 - 🔧 DevOps & Version Control: Git, CI/CD, Docker, Kubernetes, AWS
