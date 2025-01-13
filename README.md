@@ -28,4 +28,4 @@
 
 Thanks for stopping by! 
 
-<img src="spongebob-roach.gif" width="80"><a href="https://www.credly.com/badges/c0b38986-c21b-4764-a335-8eee2785346f/linked_in_profile"><img src="aws.png" width="80"/></a>
+<a href="https://www.credly.com/badges/c0b38986-c21b-4764-a335-8eee2785346f/linked_in_profile"><img src="aws.png" width="80"/></a>
