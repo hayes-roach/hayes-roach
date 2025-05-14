@@ -5,7 +5,7 @@
 - :telescope: I’m a Software / Data Engineer with 5 years of experience in building, designing, and deploying microservices and data pipelines.
 - 📚 I am pursuing my Master's degree in Computer Science @ Georgia Tech specializing in Computing Systems. 🐝
 - :seedling: I try to learn something new each day.
-- :zap: In my free time, I enjoy hiking, playing pickleball, watching sports, and spending quality time with family.
+- :zap: In my free time, I enjoy reading, hiking, playing pickleball, watching sports, and spending quality time with family.
 
 ##
 
