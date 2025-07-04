@@ -1,6 +1,6 @@
 ## 😎 Welcome!
 
-- :telescope: I’m a Software Engineer with 5 years of experience in building, designing, and deploying microservices, applications, and data pipelines.
+- :telescope: I’m a Software Engineer with 5 years of experience in building microservices, applications, and data pipelines.
 - 📚 I am pursuing my Master's degree in Computer Science @ Georgia Tech specializing in Computing Systems. 🐝
 - :zap: I love to write code, play pickleball, watch sports, build furniture, and spend time with my family.
 
