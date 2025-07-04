@@ -1,21 +1,8 @@
 ## 😎 Welcome!
 
-### :man_technologist: Here's a little bit about me:
-
-- :telescope: I’m a Software / Data Engineer with 5 years of experience in building, designing, and deploying microservices and data pipelines.
+- :telescope: I’m a Software Engineer with 5 years of experience in building, designing, and deploying microservices, applications, and data pipelines.
 - 📚 I am pursuing my Master's degree in Computer Science @ Georgia Tech specializing in Computing Systems. 🐝
-- :seedling: I try to learn something new each day.
-- :zap: In my free time, I enjoy reading, hiking, playing pickleball, watching sports, and spending quality time with family.
-
-##
-
-### 🛠️ Tech Stack:
-
-- 🛢️ Databases: PostgreSQL, MySQL, MongoDB, CouchDB, Snowflake
-- 🌐 Programming Languages: SQL, Java, Python, JavaScript, C++, Rust
-- ⚙️ Frameworks & Libraries: Spring Boot, NextJS, pandas
-- 🔧 DevOps & Version Control: Git, CI/CD, Docker, Kubernetes, AWS
-- 📊 Data Processing & Visualization: Kafka, Redis, Airflow, Sigma, Talend, Mage, Debezium
+- :zap: I love to write code, play pickleball, watch sports, build furniture, and spend time with my family.
 
 ##
 
@@ -25,7 +12,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roachbaseball@gmail.com)](mailto:roachbaseball@gmail.com)
 
 ##
-
-Thanks for stopping by! 
 
 <a href="https://www.credly.com/badges/c0b38986-c21b-4764-a335-8eee2785346f/linked_in_profile"><img src="aws.png" width="80"/></a>
